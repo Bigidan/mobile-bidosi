@@ -1,1 +1,0 @@
-.light_theme :root{--text: #021018;--background: #f4f9fb;--primary: #0b6484;--secondary: #f15fd2;--accent: #c5112c}:root{--text: #f4f9fb;--background: #04090b;--primary: #7ad3f4;--secondary: #a00e80;--accent: #ee3854}body{margin:0;padding:0;background:var(--background);color:var(--text)}
